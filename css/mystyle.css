@@ -1,0 +1,38 @@
+.icono{
+	font-size: 	1.5em;
+}
+.bolder{
+	font-weight: bolder;
+}
+.btn-register{
+	background-color: green;
+}
+.navbar-default .navbar-nav>li>a  {
+	color:white;
+	background-color: green;
+}
+
+.btn-register:hover .navbar-default .navbar-nav>li>a{
+	background-color: red;
+ 
+}
+.icono2{
+	font-size: 	3em;
+	color: 	#009788;
+}
+.elementopadre > div > i{
+	border-radius: 	50%;
+	padding: 1em;
+	border: 5px solid #2cb354;
+}
+.titulo{
+	text-transform: capitalize;	
+}
+.titulohr{
+	    border-top: 1px solid #9f9f9f;
+    width: 300px;
+}
+.section1{
+	border-top: 1px solid #9f9f9f;
+	background-color: #f8f8f8;
+}
